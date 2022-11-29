@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "93548882-c3b7-417d-acd9-2b40af852023": {
+      "ProjectGuid": "93548882-c3b7-417d-acd9-2b40af852023",
+      "DisplayName": "SplitVeryWise.Domain",
+      "ColorIndex": 0
+    },
+    "3f144f29-262e-4299-a4a9-da8540c2c32d": {
+      "ProjectGuid": "3f144f29-262e-4299-a4a9-da8540c2c32d",
+      "DisplayName": "SplitVeryWise.Infrastructure",
+      "ColorIndex": 1
+    },
+    "1a62ce2c-8b2f-4847-aac7-f9d41ad18e69": {
+      "ProjectGuid": "1a62ce2c-8b2f-4847-aac7-f9d41ad18e69",
+      "DisplayName": "SplitVeryWise.Application.Contracts",
+      "ColorIndex": 2
+    },
+    "56c60ce2-0ff1-49f5-9da7-8aed71a261fa": {
+      "ProjectGuid": "56c60ce2-0ff1-49f5-9da7-8aed71a261fa",
+      "DisplayName": "SplitVeryWise.Application",
+      "ColorIndex": 3
+    },
+    "b9d6b306-d75f-4f41-80a4-9c6cf8790703": {
+      "ProjectGuid": "b9d6b306-d75f-4f41-80a4-9c6cf8790703",
+      "DisplayName": "SplitVeryWise.Web",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
